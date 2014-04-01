@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<departments>
+<department>
+<name>Accounting</name>
+</department> 
+<department>
+<name>Biology</name>
+</department> 
+<department>
+<name>Business</name>
+</department> 
+<department>
+<name>History</name>
+</department> 
+<department>
+<name>Marketing</name>
+</department> 
+<department>
+<name>Paralegal</name>
+</department> 
+<department>
+<name>Physics</name>
+</department> 
+</departments>
