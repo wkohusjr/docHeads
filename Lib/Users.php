@@ -148,6 +148,7 @@ class Users
         $_SESSION['name'] = $name;
         $_SESSION['userType'] = $userType;
         $_SESSION['email'] = $email;
+        $_SESSION['timeout'] = time();
       }
     }
     $conn -> freeConnection();
